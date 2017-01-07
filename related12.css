@@ -157,4 +157,5 @@ src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/r
     #fw-feed-items .fw-feed-item-link{margin:0;padding:0;font-size:12px;color:#d2d0cb;overflow:hidden;text-overflow:ellipsis;display:block;}/***非表示の場合はdisplay:none***/
 @media screen and (max-width:414px){
 	#fw-feed-items .fw-feed-item-description, #fw-feed-items .fw-feed-item-date, #fw-feed-items .fw-feed-item-link {display:none}
+	#fw-feed-items .fw-feed-item-title {font-size:16px}
 }
