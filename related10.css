@@ -127,9 +127,9 @@ src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/r
 }
     img{border:none;}
     a{text-decoration: none;}
-  	#fw-container{width:100%;margin:0;padding:0;font-family:Roboto,Arial, Helvetica, sans-serif;font-size:16px;border:1px solid #dbdee1;border-radius:5px;overflow:hidden;box-sizing:border-box;text-align: left;}
+  	#fw-container{width:100%;margin:0;padding:0;font-family:Roboto,Arial, Helvetica, sans-serif;font-size:16px;border:none;border-radius:5px;overflow:hidden;box-sizing:border-box;text-align: left;}
     header{margin:0;padding:0;background-color:#ffffff;background-image:none;font-size:16px;}
-    header .fw-feed-title{margin:0 20px;padding:20px 0 15px 0;word-wrap:break-word;border-bottom:1px solid #dbdee1;}
+    header .fw-feed-title{margin:0 20px;padding:20px 0 15px 0;word-wrap:break-word;border-bottom:none;}
     header .fw-feed-title a:link{color:#d8cf5e;}
     header .fw-feed-title a:hover{color:#ffffff;}
     header .fw-feed-title a:visited{color:#d8cf5e;}
